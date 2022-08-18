@@ -36,7 +36,7 @@ You can click the Preview link to take a look at your changes.
 ### :fire: You know them == You are awesome:
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/B9xgQ9lxJ0cP6/giphy.gif" width="330"/>
-  <img src="https://media.giphy.com/media/dxld1UBIiGuoh31Fus/giphy.gif" width="330"/>
-  <img src="https://media.giphy.com/media/68kKd6gmSKYww/giphy.gif" width="330"/>
+  <img src="https://media.giphy.com/media/B9xgQ9lxJ0cP6/giphy.gif" width="230"/>
+  <img src="https://media.giphy.com/media/dxld1UBIiGuoh31Fus/giphy.gif" width="230"/>
+  <img src="https://media.giphy.com/media/68kKd6gmSKYww/giphy.gif" width="230"/>
 </div>
