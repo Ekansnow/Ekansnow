@@ -14,7 +14,7 @@
   </a>
 </div>
 
-  <a align="center" href="https://www.ekansnow.com/"> EKANSNOW </a>
+  <div align="center" href="https://www.ekansnow.com/"> EKANSNOW </div>
 
 <h2 align="center">
   Hello everyone. How are you are all doing? It's your boy, Ekansnow here!
